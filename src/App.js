@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       {/* Header Section */}
       <header className="header">
-        <div className="logo">DreamInteriors</div>
+        <div className="logo">ANAY HOME-DECOR</div>
         <nav className="nav">
           <a href="#about">About</a>
           <a href="#services">Services</a>
@@ -66,7 +66,7 @@ function App() {
 
       {/* Footer */}
       <footer id="contact" className="footer">
-        <p>© 2025 DreamInteriors. All Rights Reserved.</p>
+        <p>© 15th May 2023 AnayHomeInterior. All Rights Reserved.</p>
       </footer>
     </div>
   );
