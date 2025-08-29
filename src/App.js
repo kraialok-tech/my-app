@@ -47,3 +47,29 @@ function App() {
           </div>
           <div className="card">
             <img src="https://via.placeholder.com/300x200" alt="Bedroom" />
+            <h3>Bedrooms</h3>
+            <p>Calm, cozy, and elegant bedroom designs for better living.</p>
+          </div>
+        </div>
+      </section>
+
+      {/* Gallery Section */}
+      <section id="gallery" className="gallery">
+        <h2>Gallery</h2>
+        <div className="gallery-grid">
+          <img src="https://via.placeholder.com/300x200" alt="Gallery 1" />
+          <img src="https://via.placeholder.com/300x200" alt="Gallery 2" />
+          <img src="https://via.placeholder.com/300x200" alt="Gallery 3" />
+          <img src="https://via.placeholder.com/300x200" alt="Gallery 4" />
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer id="contact" className="footer">
+        <p>© 2025 DreamInteriors. All Rights Reserved.</p>
+      </footer>
+    </div>
+  );
+}
+
+export default App;
